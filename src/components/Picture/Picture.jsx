@@ -1,0 +1,13 @@
+import React from 'react';
+import style from '../Picture/Picture.module.css';
+
+const Picture = () => {
+  return (
+    <>
+    <img className={style.img} src='https://yandex-images.clstorage.net/dU53sj131/6da601zLY/kS2cfbAZESZh5RaZJovTXoX_9I_2ox9KYwUSnqov2uS9PFxl-1XbDsZUvb3I_sirBP9RCCCpyJy5yjaI0epahYwskR3AaRFmdPkGLD-iu0ORitHfxqJSZj5kStr3epagwAxBDDsJ6wfLCSGtzPa0F6xzKNTNSQ1hbWvC-bSzApygVZlAcdgVVilhAs3b60PKeCNw75qjx2-zCZJ_0m-OOVFkrBFnndMzx5Fs7FmrpGfk5_D87R19ZbGfJhm8qz7U-dHhiFmdEbop-ToR0wMHihhfBFcCtxOns5HKf1pX8jldiFBp3xFzY3OlkPxlK9AjOEPElFVxpV3Z977NqJsmAN1F8cDp5XEaWS0-7fdv8-pMV6BjWrvXC2uhxtMqc5blgXAcRSOFU8c_3RRYCWOcv3y3bBAhcXUJTRumzThrJqzF0eVATY01MuEdvhX_J3cCLCO0AxYPN-PP8V5_hmPWlS1kbIln6e-XI01s5F2HrNv8K0jE6UHZ3TnrSs00sxY8kSXFRCGRrfJR0dYZc3-3fiznzCdKe0tzcyEub7In5iHFwORxbwWPIyexnKDFGxyDkBeASGnJBfHlmx45_FuasCFZ4VyZLV3m9b22cc-PSwJ8r9C7an_rvzsRokM2164tHcxkAQuVO8ursfRMveNUezgzkGQ9xa39ucfWxYw7FlhpuXEkEUFJFj3dOjkDu7vKnEs4z3aLr_NfeSaLhhsWeV3giDUfiXNj66V8_A2LHIPY4yAYuc2VmaETrgUop44Uzbkd8E3NKXpxjRpZr6_rUgx32EMut6uj-xXmpw5TbhnV5AAFZwUru7clEFhFY0zzWONkFKFV2a2ZlxLNJCcKHKX5nTBJNZ1icVUucatbr9KEr4Sv7u9jwzOFTh--g9rh7ZgEmavdw9fz1Xz8iffYQ8yv_JStpU0N_ScizXxDvpjdrUVYncU9YnGV-nVvn6_qVG-Yy4Jbg88HbeYfNv_I' alt='simpsons' />
+    <p>hi there!</p>
+    </>
+  )
+}
+
+export default Picture;
